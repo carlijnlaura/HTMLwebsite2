@@ -1,0 +1,30 @@
+#head {
+
+
+    font-size: 45px;
+    font-family:Arial;
+    text-align: center;
+}
+
+.centered {
+    width: 820px;
+    margin: 0 auto;
+    display: block;
+}
+
+#foto1 {
+    width: 400px;
+    float: left;
+    margin-right: -20px;
+}
+
+#foto2 {
+    width: 400px;
+    float: right;
+    
+}
+
+#artikel {
+    text-align: left;
+    margin-top: 30%;
+}
